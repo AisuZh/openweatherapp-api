@@ -1,0 +1,49 @@
+{
+    "coord": {
+        "lon": 74.59,
+        "lat": 42.87
+    },
+    "weather": [
+        {
+            "id": 600,
+            "main": "Snow",
+            "description": "light snow",
+            "icon": "13d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 34,
+        "feels_like": 28.11,
+        "temp_min": 34,
+        "temp_max": 34,
+        "pressure": 1024,
+        "humidity": 98,
+        "sea_level": 1024,
+        "grnd_level": 932
+    },
+    "visibility": 2136,
+    "wind": {
+        "speed": 6.69,
+        "deg": 114,
+        "gust": 10.87
+    },
+    "snow": {
+        "1h": 0.16
+    },
+    "clouds": {
+        "all": 100
+    },
+    "dt": 1675591326,
+    "sys": {
+        "type": 1,
+        "id": 8871,
+        "country": "KG",
+        "sunrise": 1675563167,
+        "sunset": 1675599504
+    },
+    "timezone": 21600,
+    "id": 1528675,
+    "name": "Bishkek",
+    "cod": 200
+}
